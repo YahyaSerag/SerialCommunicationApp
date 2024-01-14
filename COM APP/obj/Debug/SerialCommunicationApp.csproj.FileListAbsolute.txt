@@ -1,0 +1,14 @@
+D:\projects\COM APP\bin\Debug\COM APP.exe.config
+D:\projects\COM APP\bin\Debug\COM APP.exe
+D:\projects\COM APP\bin\Debug\COM APP.pdb
+D:\projects\COM APP\obj\Debug\SerialCommunicationApp.csproj.AssemblyReference.cache
+D:\projects\COM APP\obj\Debug\MainWindow.g.cs
+D:\projects\COM APP\obj\Debug\App.g.cs
+D:\projects\COM APP\obj\Debug\COM APP_MarkupCompile.cache
+D:\projects\COM APP\obj\Debug\MainWindow.baml
+D:\projects\COM APP\obj\Debug\COM APP.g.resources
+D:\projects\COM APP\obj\Debug\COM_APP.Properties.Resources.resources
+D:\projects\COM APP\obj\Debug\SerialCommunicationApp.csproj.GenerateResource.cache
+D:\projects\COM APP\obj\Debug\SerialCommunicationApp.csproj.CoreCompileInputs.cache
+D:\projects\COM APP\obj\Debug\COM APP.exe
+D:\projects\COM APP\obj\Debug\COM APP.pdb
